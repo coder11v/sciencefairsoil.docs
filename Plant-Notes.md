@@ -25,8 +25,8 @@
 
 ## Sunday, January 18, 2026
 **Maintenance Activity:**
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
-*   **Physical Support:** Plants have started climbing; vines were gently wrapped around trellises.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
 *   **Lighting:** Growlights moved up again.
 
 
@@ -40,39 +40,39 @@
 ---
 
 ## Monday, January 19, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
-*   **Physical Support:** Plants have started climbing; vines were gently wrapped around trellises.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
     * Plants Moved: A1-3, B1-3
 
 
 ## Tuesday, January 20, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
-*   **Physical Support:** Plants have started climbing; vines were gently wrapped around trellises. 
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+*   **Physical Support:** Plants have started climbing, moved to trellises. 
     * Plants Moved: A2
 
 ## Tuesday, January 20, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 
 
 
 
 ## Wednesday, January 21, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 
 
 ## Thursday, January 22, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 
 
 ## Friday, January 23, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 * Other Notes: 
     * The sensor system has been watering for the past 24 hours or more at this point.
 
 ## Saturday, January 24, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 *   **Lighting:** Growlights moved up again.
-*   **Physical Support:** Plants have started climbing; vines were gently wrapped around trellises.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
     * Plants Moved: A1-3, B1-3
 
 
@@ -80,9 +80,9 @@
 
 ## Sunday, January 25, 2026 - TBD
 **Maintenance Activity:**
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned by napkins to remove soil buildup before replacing them directly into the pots to ensure accurate readings.
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 *   **Lighting:** Growlights moved up again.
-*   **Physical Support:** Plants have started climbing; vines were gently wrapped around trellises.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
     * Plants Moved: A2, B3
 *   **Other Notes:** 
     * B3 + A3 are the tallest plants in the experiment. They are growing a lot. 
@@ -98,3 +98,14 @@
 | **A2:** ![A2](Attachments/25-a2-1.jpeg) ![A2](Attachments/25-a2-2.jpeg) | **B2:** ![B2](Attachments/25-b2-1.jpeg) ![B2](Attachments/25-b2-2.jpeg) |
 | **A3:** ![A3](Attachments/25-a3-1.jpeg) ![A3](Attachments/25-a3-2.jpeg) ![A3](Attachments/25-a3-3.jpeg) | **B3:** ![B3](Attachments/25-b3-1.jpeg) ![B3](Attachments/25-b3-2.jpeg) ![B3](Attachments/25-b3-3.jpeg) |
 ---
+
+## Monday, January 26, 2026
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
+    * Plants Moved: A3 (was clinging to B3)
+*   **Other Notes:** 
+    * Plant 2 in pot B2 is dying.
+
+## Tuesday, January 27, 2026
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+
