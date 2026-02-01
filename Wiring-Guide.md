@@ -173,12 +173,3 @@ Same as above but use pin 27 instead of 17.
 - **Wrong pins for SDA/SCL** - Pin 3 is SDA, Pin 5 is SCL. Don't mix them up.
 
 ---
-
-## That's It
-
-Once everything is wired and tested, your Pi can:
-1. Read moisture from both sensors (via ADC)
-2. Decide when to water based on moisture levels
-3. Control pumps using relays
-
-You're ready to start the experiment!

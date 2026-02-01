@@ -1,6 +1,6 @@
-# Smart Farm Project - Component Specifications
+# Component Specifications
 
-## The Stuff You're Actually Buying
+
 
 Here's what each component does and what to look for when ordering.
 
@@ -23,7 +23,7 @@ Here's what each component does and what to look for when ordering.
 - Any electronics store
 - Usually comes with jumper wires already
 
-**What I used:**
+**What was used:**
 [Amazon](https://www.amazon.com/dp/B09VKYLYN7?social_share=cm_sw_r_cso_sms_apan_dp_6G1GNFM01V962X9M4HSQ&titleSource=true)
 
 ---
@@ -53,7 +53,7 @@ Here's what each component does and what to look for when ordering.
 - Look for: DFRobot, AIDEEPEN, or generic "gravity interface."
 - Make sure it says "capacitive" not "resistive"
 
-**What I used:**
+**What was used:**
 [Amazon](https://www.amazon.com/dp/B07SYBSHGX) - Worked great, high quality for low price, but make sure to **calibrate** them!
 ---
 
@@ -82,7 +82,7 @@ Here's what each component does and what to look for when ordering.
 - Should have 4 pins: VDD, GND, SDA, SCL
 - Plus 4 input channels (A0, A1, A2, A3)
 
-**What I used:**
+**What was used:**
 [Amazon](https://www.amazon.com/dp/B0CRKHZDY4)
 ---
 
@@ -110,7 +110,7 @@ Here's what each component does and what to look for when ordering.
 - Aquarium pump sections also have these
 - Make sure it says 5V (not 12V or 24V)
 
-**What I used:**
+**What was used:**
 [Amazon](https://www.amazon.com/dp/B09GW5X4P2)
 ---
 
@@ -147,7 +147,7 @@ Here's what each component does and what to look for when ordering.
 - Should say "low level triggered" (means 3.3V from Pi works)
 - Comes with or without headers
 
-**What I used:**
+**What was used:**
 [Amazon](https://www.amazon.com/dp/B099MC4TJD?social_share=cm_sw_r_cp_ud_dp_W4EVF3ZHEWE04Y8X3ZKX)
 ---
 
@@ -171,7 +171,7 @@ Here's what each component does and what to look for when ordering.
 - Amazon: search "jumper wire kit" or "breadboard jumper wires"
 - Usually come in packs of 65-120 wires
 
-**What I used:**
+**What was used:**
 [Amazon](https://www.amazon.com/dp/B09VKYLYN7?social_share=cm_sw_r_cso_sms_apan_dp_6G1GNFM01V962X9M4HSQ&titleSource=true)
 ---
 
@@ -195,8 +195,8 @@ Here's what each component does and what to look for when ordering.
 - Gardening sections of hardware stores
 - Might also need small end caps or plugs
 
-**What I used:**
-[Amazon](https://www.amazon.com/dp/B0DHKZNSDJ?social_share=cm_sw_r_cp_ud_dp_4861F30WAAA6Q6Y9FBM2) and I went to a nearby hardware store for more piping.
+**What was used:**
+[Amazon](https://www.amazon.com/dp/B0DHKZNSDJ?social_share=cm_sw_r_cp_ud_dp_4861F30WAAA6Q6Y9FBM2) and went to a nearby hardware store for more piping.
 
 
 ---
