@@ -1,8 +1,23 @@
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubchart?oid=319598435&amp;format=interactive"></iframe>
+<!-- Dark mode container -->
+<div style="background-color: #090B0F; display: flex; flex-direction: column; gap: 2rem; align-items: center; padding: 2rem 0; min-height: 100vh;">
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubchart?oid=1677544668&amp;format=interactive"></iframe>
+  <!-- Chart 1 -->
+  <div style="width: 90%; max-width: 900px; height: 500px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); border-radius: 10px; overflow: hidden;">
+    <iframe 
+      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubchart?oid=319598435&amp;format=interactive"
+      width="100%" height="100%" frameborder="0" style="border:0;">
+    </iframe>
+  </div>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubhtml?gid=381234246&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  <!-- Chart 2 -->
+  <div style="width: 90%; max-width: 900px; height: 500px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); border-radius: 10px; overflow: hidden;">
+    <iframe 
+      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubchart?oid=1677544668&amp;format=interactive"
+      width="100%" height="100%" frameborder="0" style="border:0;">
+    </iframe>
+  </div>
+
+</div>
 
 <!--
 ## Precision Agriculture: Comparing Sensor-Driven vs. Timer-Based Irrigation Systems
