@@ -1,9 +1,11 @@
+# Lab Notebook
 
+## Experimental Setup
 *   **Group A:** Smart Irrigation (Soil-moisture-responsive)
 *   **Group B:** Fixed Timer (Controlled schedule)
 
 ---
-
+<!--
 ## Sunday, January 11, 2026
 **Observation:** Initial status check and photo documentation.
 
@@ -22,7 +24,9 @@
 *   **Lighting:** Adjusted growlights upward to accommodate rapid vertical growth of the pea plants.
 
 ---
+-->
 
+# Week 1
 ## Sunday, January 18, 2026
 **Maintenance Activity:**
 *   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
@@ -77,8 +81,8 @@
 
 
 
-
-## Sunday, January 25, 2026 - TBD
+# Week 2
+## Sunday, January 25, 2026
 **Maintenance Activity:**
 *   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 *   **Lighting:** Growlights moved up again.
@@ -114,3 +118,42 @@
 
 ## Thursday, January 29, 2026
 *   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+
+## Friday, January 30, 2026
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+
+## Saturday, January 31, 2026
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
+    * Plants Moved: A3, B2-3
+
+# Week 3
+## Sunday, February 1, 2026
+**Maintenance Activity:**
+*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
+*   **Lighting:** Growlights moved up again.
+*   **Physical Support:** Plants have started climbing, moved to trellises.
+    * Plants Moved: A2, B3
+*   **Other Notes:** 
+    * B2-3 + A3 are the tallest plants in the experiment.
+    * The leaves on A1-3 and B1-3 are starting to yellow. 
+    * B2 is extremely unhealthy, and the second plant is dying
+    * Aphids on all plants!
+        * ![aph-1](Attachments/misc/aph-1.jpeg)
+        * ![aph-2](Attachments/misc/aph-2.jpeg)
+
+<!--
+
+TODO: Add photos for this week
+
+### 📸 Progress Photos
+
+| Group A (Smart System) | Group B (Fixed Timer) |
+| :--- | :--- |
+| **A1:** ![A1](Attachments/25-a1-1.jpeg) ![A1](Attachments/25-a1-2.jpeg) ![A1](Attachments/25-a1-3.jpeg) | **B1:** ![B1](Attachments/25-b1-1.jpeg) ![B1](Attachments/25-b1-2.jpeg) ![B1](Attachments/25-b1-3.jpeg) |
+| **A2:** ![A2](Attachments/25-a2-1.jpeg) ![A2](Attachments/25-a2-2.jpeg) | **B2:** ![B2](Attachments/25-b2-1.jpeg) ![B2](Attachments/25-b2-2.jpeg) |
+| **A3:** ![A3](Attachments/25-a3-1.jpeg) ![A3](Attachments/25-a3-2.jpeg) ![A3](Attachments/25-a3-3.jpeg) | **B3:** ![B3](Attachments/25-b3-1.jpeg) ![B3](Attachments/25-b3-2.jpeg) ![B3](Attachments/25-b3-3.jpeg) |
+---
+-->
+
+---
