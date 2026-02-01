@@ -1,4 +1,9 @@
-Coming Soon.
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubchart?oid=319598435&amp;format=interactive"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubchart?oid=1677544668&amp;format=interactive"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTg6Nh39TaA23wj6dofqdoUU1Uvxvpvm6r7Pm4QQtjaVurlkjDNvUo-bopjApjaoEJp9nQcuL7pbxFh/pubhtml?gid=381234246&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 <!--
 ## Precision Agriculture: Comparing Sensor-Driven vs. Timer-Based Irrigation Systems
 
