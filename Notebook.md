@@ -54,12 +54,6 @@
 *   **Physical Support:** Plants have started climbing, moved to trellises. 
     * Plants Moved: A2
 
-## Tuesday, January 20, 2026
-*   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
-
-
-
-
 ## Wednesday, January 21, 2026
 *   **Cleaning sensors for accurate readings:** Soil moisture sensors were cleaned to ensure accurate readings.
 
