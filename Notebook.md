@@ -1,4 +1,4 @@
-# Lab Notebook
+# Listen to The Soil: Notebook
 
 ## Experimental Setup
 *   **Group A:** Smart Irrigation (Soil-moisture-responsive)
@@ -143,4 +143,5 @@
 | **A1:** ![A1](Attachments/1-a1-1.jpeg) ![A1](Attachments/1-a1-2.jpeg) ![A1](Attachments/1-a1-3.jpeg) ![A1](Attachments/1-a1-4.jpeg) ![A1](Attachments/1-a1-5.jpeg) ![A1](Attachments/1-a1-6.jpeg) | **B1:** ![B1](Attachments/1-b1-1.jpeg) ![B1](Attachments/1-b1-2.jpeg) ![B1](Attachments/1-b1-3.jpeg) ![B1](Attachments/1-b1-4.jpeg) ![B1](Attachments/1-b1-5.jpeg) |
 | **A2:** ![A2](Attachments/1-a2-1.jpeg) ![A2](Attachments/1-a2-2.jpeg) ![A2](Attachments/1-a2-3.jpeg) | **B2:** ![B2](Attachments/1-b2-1.jpeg) ![B2](Attachments/1-b2-2.jpeg) ![B2](Attachments/1-b2-3.jpeg) ![B2](Attachments/1-b2-4.jpeg) ![B2](Attachments/1-b2-5.jpeg) ![B2](Attachments/1-b2-6.jpeg) |
 | **A3:** ![A3](Attachments/1-a3-1.jpeg) ![A3](Attachments/1-a3-2.jpeg) ![A3](Attachments/1-a3-3.jpeg) ![A3](Attachments/1-a3-4.jpeg) ![A3](Attachments/1-a3-5.jpeg) ![A3](Attachments/1-a3-6.jpeg) ![A3](Attachments/1-a3-7.jpeg) ![A3](Attachments/1-a3-8.jpeg) | **B3:** ![B3](Attachments/1-b3-1.jpeg) ![B3](Attachments/1-b3-2.jpeg) ![B3](Attachments/1-b3-3.jpeg) ![B3](Attachments/1-b3-4.jpeg) ![B3](Attachments/1-b3-5.jpeg) |
+
 
